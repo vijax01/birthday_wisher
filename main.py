@@ -5,10 +5,6 @@ os.system('cls')
 now = dt.datetime.now()
 
 
-MY_EMAIL = 'vijax01@gmail.com'
-PASSWORD = 'jfueuhfbmuxqrmnh'
-
-
 MY_EMAIL = os.environ['MY_EMAIL']
 PASSWORD = os.environ['PASSWORD']
 
